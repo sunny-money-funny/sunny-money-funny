@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image1](https://github.com/sunny-money-funny/sunny-money-funny/blob/main/images/c1.gif)
+
 - 🔭 I’m currently working on ... nothing
 - 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... people with ambition
