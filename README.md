@@ -6,13 +6,12 @@
 
 
 
-- 🔭 I’m currently working on ... nothing
-- 🌱 I’m currently learning ... 
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with ... French lol
+- 🔭 I’m currently working on ... myself
+- 🌱 I’m currently learning ... computer
+- 👯 I’m looking to collaborate on ... good projects
+- 🤔 I’m looking for help with ... French mdr
 - 💬 Ask me about ... my philosophy
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ... she
-- ⚡ Fun fact: ... I look mad when I'm not mad 
+- 😄 Pronouns: ... SHE
+- ⚡ Fun fact: ... I like dancing 
 
   
